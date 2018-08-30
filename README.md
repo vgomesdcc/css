@@ -1,2 +1,2 @@
 # uri
-questões do site de exercícios uri online.
+questões em C++ do site de exercícios uri online.
